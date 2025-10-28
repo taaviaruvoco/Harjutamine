@@ -1,0 +1,3 @@
+GitHub on faili ja koodi jagamise teenus, mis võimaldab teiste inimestega töid ja projekte koos teha.
+GitHubi kasutatakse tavaliselt erinevate tarkvara projektide loomisel, sest see võimaldab erinevatel inimestel
+samal ajal projekti ehitada.
