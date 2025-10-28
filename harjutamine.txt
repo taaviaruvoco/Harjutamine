@@ -1,3 +1,6 @@
 GitHub on faili ja koodi jagamise teenus, mis võimaldab teiste inimestega töid ja projekte koos teha.
 GitHubi kasutatakse tavaliselt erinevate tarkvara projektide loomisel, sest see võimaldab erinevatel inimestel
 samal ajal projekti ehitada.
+
+GitHubi saan edaspidi kasutada koodipõhiste kodutööde tegemiseks, siis saan järgemööda teha projektis muudatusi
+ning katseda, kas need toimivad ilma et peaks muretsema, et kogemata töötava koodi ära kustutad.
