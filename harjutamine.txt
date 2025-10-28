@@ -4,3 +4,6 @@ samal ajal projekti ehitada.
 
 GitHubi saan edaspidi kasutada koodipõhiste kodutööde tegemiseks, siis saan järgemööda teha projektis muudatusi
 ning katseda, kas need toimivad ilma et peaks muretsema, et kogemata töötava koodi ära kustutad.
+
+GitHubi platvormi loomist alustati 2007. aastal oktoobris ning teenus tehti kättesaadavaks 1998. aasta aprillikuus.
+GitHubi loojad on Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja. Scott Chacon.
